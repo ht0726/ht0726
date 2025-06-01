@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
 -->
-- 🔭 I’m currently working on a project.
-- 🌱 I’m currently learning at University of Washington Tacoma.
+Hi my name is Holden Tsang.
+- 🔭 I’m currently working on a database project.
+- 🌱 I’m a student at the University of Washington Tacoma studying CS.
 - 📫 How to reach me: ht0726@uw.edu
 - ⚡ Fun fact: You now know a little about me.
